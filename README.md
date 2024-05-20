@@ -28,5 +28,5 @@ git checkout main
 ### Switch to the finish Branch
 If you want to view or work on the completed code, switch to the finish branch:
 ```bash
-git checkout main
+git checkout finish
 ```
